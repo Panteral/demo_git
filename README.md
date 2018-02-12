@@ -1,2 +1,2 @@
 # demo_git
-Apprendre à utiliser git
+Apprendre à utiliser git, tout va bien.
